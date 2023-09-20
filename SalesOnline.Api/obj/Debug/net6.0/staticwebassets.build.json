@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VQZnlsXvnrxGycrJWNiZmgz7VtsZTvv+B6AFkrZIxp0=",
+  "Source": "SalesOnline.Api",
+  "BasePath": "_content/SalesOnline.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
